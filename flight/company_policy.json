@@ -1,0 +1,15 @@
+{
+  "travel_policy": {
+    "flight_standards": {
+      "beijing": {"economy": 5500, "business": 12000},
+      "shanghai": {"economy": 5000, "business": 11000},
+      "guangzhou": {"economy": 4500, "business": 10000}
+    },
+    "approval_required": {
+      "domestic": 10000,
+      "international": 20000
+    },
+    "preferred_airlines": ["中国国航", "东方航空", "南方航空"],
+    "advance_booking": "国内航班需提前3天预订"
+  }
+}
