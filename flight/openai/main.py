@@ -1,5 +1,5 @@
 # 主程序
-from flight.flight_agent import FlightBookingAgent
+from flight.openai import FlightBookingAgent
 
 
 def main():

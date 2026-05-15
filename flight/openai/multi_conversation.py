@@ -1,4 +1,4 @@
-from flight.flight_agent import FlightBookingAgent
+from flight.openai import FlightBookingAgent
 
 # 多对话历史
 class ConversationalFlightAgent(FlightBookingAgent):

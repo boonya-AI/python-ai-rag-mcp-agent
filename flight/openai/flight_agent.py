@@ -1,8 +1,7 @@
 from openai import OpenAI
-import json
 import re
 
-from flight.all_in_one import TravelPolicyRAG
+from flight.openai import TravelPolicyRAG
 
 
 class FlightBookingAgent:
